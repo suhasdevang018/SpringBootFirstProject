@@ -17,6 +17,7 @@ public class CategoryController {
     @Autowired
     CategoryService categoryService;
 
+/* new changes */
 //    instead of constructor we can use autowired key word it will make as field injection
 //    public CategoryController(CategoryService categoryService) {
 //        this.categoryService = categoryService;
